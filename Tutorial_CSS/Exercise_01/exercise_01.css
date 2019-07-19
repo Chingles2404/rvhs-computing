@@ -1,6 +1,6 @@
 body {
     color: #29E2D5;
-    font-style: courier;
+    font-family: 'Courier New', Courier, monospace;
     background: black;
 }
 
@@ -14,5 +14,9 @@ h1 {
     background: #FC4445;
     border: 5px solid #EFE2BA;
     padding: 10px;
-    font-style: courier;
 }
+
+ol {
+    display: list-item;
+    list-style-position: inside;
+  }
