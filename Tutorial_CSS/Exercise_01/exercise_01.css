@@ -1,0 +1,18 @@
+body {
+    color: #29E2D5;
+    font-style: courier;
+    background: black;
+}
+
+h1, h2, p a {
+    color: #EFE2BA;
+}
+
+h1 {
+    align-self: center;
+    text-align: center;
+    background: #FC4445;
+    border: 5px solid #EFE2BA;
+    padding: 10px;
+    font-style: courier;
+}
